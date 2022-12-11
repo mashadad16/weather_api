@@ -1,0 +1,17 @@
+.weather_block
+{
+    width: min(30% - 15px, 300px);
+    margin-inline: auto;
+    border-radius: 10px;
+    background: rgb(255,51,148);
+    background: linear-gradient(258deg, rgba(241,156,222,1) 0%, rgba(255,51,148,1) 100%);
+}
+h3
+{
+    color: #ffffff;
+}
+
+h2
+{
+    color: #99D3FF;
+}
